@@ -41,6 +41,4 @@ student.save
 student 
 end 
 
-
-  
 end
